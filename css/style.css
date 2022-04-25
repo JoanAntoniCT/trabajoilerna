@@ -1,0 +1,13 @@
+
+
+.navbar-nav .nav-item{
+    text-transform: capitalize;
+    font-size: 14pt;
+    margin-right: 20px;
+}
+
+
+#logo{
+    max-height: 100px;
+}
+
